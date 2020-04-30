@@ -1,0 +1,5 @@
+name: SkullFetcher
+version: ${project.version}
+main: me.imrandoet.skullfetcher.SkullFetcher
+authors: [ImranDoet]
+description: SkullFetcher plugin that relies on the SkullCatcher library!
