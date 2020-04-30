@@ -3,3 +3,8 @@ version: ${project.version}
 main: me.imrandoet.skullfetcher.SkullFetcher
 authors: [ImranDoet]
 description: SkullFetcher plugin that relies on the SkullCatcher library!
+commands:
+    skull:
+        description: Fetches skull
+        usage: /skull [playername]
+        example: /skull ImranDoet
